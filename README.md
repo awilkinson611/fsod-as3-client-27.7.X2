@@ -22,4 +22,3 @@ All known bugs have been fixed but if you find any we might have missed, please 
 
 - kaos00723 (Kaos)
 - cp-nilly	(nilly)
-- LexussD (to do the little changes to get it connected to FSoD)
